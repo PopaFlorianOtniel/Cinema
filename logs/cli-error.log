@@ -1,0 +1,27 @@
+2023-10-02 08:24:46 error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'image' in 'field list' in C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php on line 346
+Stack Trace:
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\PdoAdapter.php:346
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\TimedOutputAdapter.php:102
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Adapter\AdapterWrapper.php:181
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:656
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:628
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Db\Table.php:686
+- C:\wamp64\www\cinema_florian\config\Seeds\MoviesSeed.php:210
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Migration\Manager\Environment.php:146
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:420
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Migration\Manager.php:618
+- C:\wamp64\www\cinema_florian\vendor\robmorgan\phinx\src\Phinx\Console\Command\SeedRun.php:110
+- C:\wamp64\www\cinema_florian\vendor\cakephp\migrations\src\Command\Phinx\CommandTrait.php:37
+- C:\wamp64\www\cinema_florian\vendor\cakephp\migrations\src\Command\Phinx\Seed.php:76
+- C:\wamp64\www\cinema_florian\vendor\symfony\console\Command\Command.php:326
+- C:\wamp64\www\cinema_florian\vendor\symfony\console\Application.php:1063
+- C:\wamp64\www\cinema_florian\vendor\symfony\console\Application.php:320
+- C:\wamp64\www\cinema_florian\vendor\symfony\console\Application.php:174
+- C:\wamp64\www\cinema_florian\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:126
+- C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\BaseCommand.php:189
+- C:\wamp64\www\cinema_florian\vendor\cakephp\migrations\src\Command\MigrationsCommand.php:198
+- C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php:334
+- C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php:172
+- C:\wamp64\www\cinema_florian\bin\cake.php:12
+

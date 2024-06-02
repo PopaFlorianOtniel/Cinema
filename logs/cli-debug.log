@@ -1,0 +1,234 @@
+2023-10-02 08:20:06 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:20:06 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:20:06 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:09 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:09 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:09 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:31 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:31 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:31 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:46 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:46 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:24:46 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:25:35 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:25:35 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:25:35 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:30:25 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:30:25 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
+2023-10-02 08:30:25 notice: Using ${var} in strings is deprecated, use {$var} instead
+Trace:
+include C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\{closure} C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 576
+Composer\Autoload\ClassLoader::loadClass() C:\wamp64\www\cinema_florian\vendor\composer\ClassLoader.php, line 427
+ReflectionClass::__construct() [internal], line ??
+Bake\Plugin::findInPath() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 144
+Bake\Plugin::discoverCommands() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 97
+Bake\Plugin::console() C:\wamp64\www\cinema_florian\vendor\cakephp\bake\src\Plugin.php, line 73
+Cake\Http\BaseApplication::pluginConsole() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Http\BaseApplication.php, line 237
+Cake\Console\CommandRunner::run() C:\wamp64\www\cinema_florian\vendor\cakephp\cakephp\src\Console\CommandRunner.php, line 144
+[main] C:\wamp64\www\cinema_florian\bin\cake.php, line 12
+
